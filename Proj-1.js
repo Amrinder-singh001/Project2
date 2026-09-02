@@ -1,2 +1,3 @@
 // #Add new features
-// In JavaScript
+// In JavaScript.
+
